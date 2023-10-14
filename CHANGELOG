@@ -1,0 +1,20 @@
+###v 0.0.2 ###
++timer
++swipe
++pinch
++wasTapped
++getTimesTapped
++getTouches
++getTouch
++count
++reset count
++external API
++force update
+###v 0.0.5 ###
+-timer
+!pinch
+!wasTapped
+!force update
+!count
+!swipe
++draw
